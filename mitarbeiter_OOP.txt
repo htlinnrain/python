@@ -1,0 +1,23 @@
+programmiere in Python:
+
+- UML-Klassendiagramm zeichnen
+
+- eine Firma
+- Es gibt Personen, Mitarbeiter, Abteilungsleiter
+- Es gibt mehrere Abteilungen, jede(r) Mitarbeiter ist in einer Abteilung
+- Es gibt beide Geschlechter
+- es gibt nur einen Abteilungsleiter pro Abteilung
+- Mitarbeiter gehören immer zu einer Abteilung
+- ein Abteilungsleiter ist auch ein Mitarbeiter
+
+- modelliere die Objekte über Vererbung
+- erzeuge zum Schluss ein Firmenobjekt
+
+ programmiere folgende Methoden:
+ - man muss alle Objekte instanzieren können
+ - wieviele Mitarbeiter, Abteilungsleiter gibts in der Firma
+ - wieviel Abteilungen gibt es
+ - welche Abteilung hat die größte Mitarbeiterstärke
+ - wie ist der Prozentanteil Frauen Männer
+
+Maximiere die Logik-Kapselung...Methoden und Datenstrukturen sollten in den passenden Klassen implementiert werden.
